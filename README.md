@@ -19,7 +19,7 @@ isFreePort(1234);
 ## Example
 
 ```bash
-deno run --allow-read https://deno.land/x/is_git/example.ts
+deno run --allow-net https://deno.land/x/is_git/example.ts
 ```
 
 ## License
